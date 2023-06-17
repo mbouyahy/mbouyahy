@@ -5,7 +5,7 @@ Web Devloper and UI/UX Designer
 -------------------------------
 
 *   🌍  I'm based in Morocco
-*   ✉️  You can contact me at [mourad.bh09@gmail.com](mailto:mourad.bh09@gmail.com)
+<!-- *   ✉️  You can contact me at [mourad.bh09@gmail.com](mailto:mourad.bh09@gmail.com) -->
 
 ### Skills 
 <p align="left">
