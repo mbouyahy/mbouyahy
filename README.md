@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mourad bouyahyaoui
 ==========================================================================================================================================
 
-Web Devloper and UI/UX Designer
+Web Devloper
 -------------------------------
 
-*   🌍  I'm based in Morocco
 <!-- *   ✉️  You can contact me at [mourad.bh09@gmail.com](mailto:mourad.bh09@gmail.com) -->
 
 ### Skills 
