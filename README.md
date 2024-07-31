@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Mourad Bouyahyaoui, a passionate web and AI developer with a strong interest in building innovative solutions.<br>Currently, I'm a student, always eager to learn new technologies and improve my skills.
+Hello! I'm Mourad, a passionate web and AI developer with a strong interest in building innovative solutions.<br>Currently, I'm a student, always eager to learn new technologies and improve my skills.
 
 
 ## 🌐 Socials:
