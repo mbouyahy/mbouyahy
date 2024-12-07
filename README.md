@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Mourad Bouyahyaoui, a passionate web developer with a strong interest in building innovative solutions.<br>Currently, I'm a student at 1337 Coding School, always eager to learn new technologies and improve my skills.
+Hello! I'm Mourad Bouyahyaoui, a passionate web developer and AI Enthusiast with a strong interest in building innovative solutions.<br>Currently, I'm a student at 1337 Coding School, always eager to learn new technologies and improve my skills.
 
 
 ## 🌐 Socials:
